@@ -1,0 +1,239 @@
+浏览器1号指纹
+[
+    {
+        "d": {
+            "=0>00199:8>0:=;=<8?=": "2?1??>66571?52423702",
+            "PX11303": false,
+            "PX11332": 1703124901722,
+            "PX11337": false,
+            "PX11349": "visible",
+            "PX11356": true,
+            "PX11371": "2b9bb114caa492d76eba195fefd95e61",        //跟sessionStorage补得对不对有关的，不对就没有这一项
+            "PX11372": false,
+            "PX11378": false,
+            "PX11379": false,
+            "PX11380": 24,
+            "PX11384": true,
+            "PX11385": 1703124900309,
+            "PX11387": 0,
+            "PX11389": false,
+            "PX11390": -480,
+            "PX11409": 9,   //cssFromStyleSheets  document.styleSheets
+            "PX11431": 1703124887066,  //第1个请求返回后解码的时间 最小的时间
+            "PX11446": true,
+            "PX11452": "50eb9a9", //取window上的属性判断是否自身的,用true和false组成字符串再编码得到
+            "PX11460": false,
+            "PX11464": true,
+            "PX11479": "Mozilla",
+            "PX11494": 487,//window.innerWidth
+            "PX11496": "be69b410-9fa6-11ee-809b-6b0c160ce651",  //像一个uuid编码
+            "PX11508": "49e5084e",  //window.chrome 和whindow.chrome下几个属性的toString
+            "PX11515": false,
+            "PX11517": true,
+            "PX11524": true,
+            "PX11526": false,
+            "PX11528": "",
+            "PX11529": 19565090,  //window.performance.memory.usedJSHeapSize
+            "PX11533": true,
+            "PX11538": 3,   history['length']
+            "PX11539": "64556c77",
+            "PX11540": true,
+            "PX11548": false,
+            "PX11555": 4294705152,
+            "PX11560": 4109, //Math.round(window.performance.now())
+            "PX11561": "4g",
+            "PX11576": true,
+            "PX11583": "en",
+            "PX11597": [],
+            "PX11602": true,
+            "PX11609": 1,
+            "PX11621": 8,
+            "PX11632": 0,   //fontFromResourceApi数量  window.performance.getEntriesByType("resource")
+            "PX11645": "https://www.flyfrontier.com/",
+            "PX11651": 1040,
+            "PX11657": 1,
+            "PX11674": true,
+            "PX11678": false,
+            "PX11681": [
+                "en"
+            ],
+            "PX11683": 9.3,
+            "PX11684": false,
+            "PX11694": false,
+            "PX11701": "58688911206825354075",
+            "PX11705": 850,
+            "PX11723": false,
+            "PX11738": false,
+            "PX11746": "d8c998da67ec8474e04deab328ef2da6",
+            "PX11754": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+            "PX11780": "50a5ec55",
+            "PX11781": 1080,
+            "PX11791": true,
+            "PX11804": "cb56243cdd39f296458468118fe68bed",  //PX11496的值 和 userAgent的值的 编码
+            "PX11812": false,
+            "PX11821": "Netscape",
+            "PX11829": true,
+            "PX11833": 28036090,
+            "PX11837": 34,  //imgFromResourceApi数量 window.performance.getEntriesByType("resource")
+            "PX11839": false,
+            "PX11840": "Thu Dec 21 2023 10:15:01 GMT+0800 (China Standard Time)",
+            "PX11843": 1920,
+            "PX11849": "10207b2f",
+            "PX11867": "missing",
+            "PX11877": true,
+            "PX11881": [
+                "loadTimes",
+                "csi",
+                "app"
+            ],
+            "PX11886": true,
+            "PX11897": "90e65465",
+            "PX11902": 1,
+            "PX11908": "20030107",
+            "PX11938": true,
+            "PX11984": "TypeError: Cannot read properties of null (reading '0')
+    at ve (https://client.px-cloud.net/PXVb73hTEg/main.min.js:1123:21)
+    at Co (https://client.px-cloud.net/PXVb73hTEg/main.min.js:3686:26)
+    at Mo (https://client.px-cloud.net/PXVb73hTEg/main.min.js:3733:30)
+    at https://client.px-cloud.net/PXVb73hTEg/main.min.js:3730:29",
+            "PX11991": 10,      //cssFromResourceApi 数量  window.performance.getEntriesByType("resource")
+            "PX12003": 24,
+            "PX12021": "false",
+            "PX12023": "",
+            "PX12037": true,
+            "PX12054": 2,
+            "PX12069": [
+                "Chrome PDF Plugin",
+                "Chrome PDF Viewer"
+            ],
+            "PX12079": false,
+            "PX12080": 0,
+            "PX12081": "Gecko",
+            "PX12100": true,
+            "PX12102": false,
+            "PX12118": "cm1pv5qja01poc8891s0",
+            "PX12121": 1920,
+            "PX12124": 1,
+            "PX12128": 1040,
+            "PX12133": false,
+            "PX12150": 1920,
+            "PX12169": 2,
+            "PX12207": 0,
+            "PX12218": "65d826e0", //给定一个属性数组，判断是不是document自身的,用true和false组成字符串再编码得到
+            "PX12241": 50,
+            "PX12248": 3600,
+            "PX12249": false,
+            "PX12254": true,
+            "PX12260": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+            "PX12271": "10207b2f",
+            "PX12278": true,
+            "PX12280": 1703124902434,
+            "PX12286": 2,
+            "PX12291": "",
+            "PX12294": false,
+            "PX12304": false,
+            "PX12314": "5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
+            "PX12317": false,
+            "PX12318": true,
+            "PX12330": "109|66|66|70|80",
+            "PX12335": true,
+            "PX12340": false,
+            "PX12387": "1920X1080",
+            "PX12397": false,
+            "PX12411": 919,
+            "PX12421": "false",
+            "PX12426": true,
+            "PX12431": 0,
+            "PX12443": 0,
+            "PX12447": 0,
+            "PX12454": 9503,
+            "PX12458": "Win32",
+            "PX12464": "90e65465",
+            "PX12481": "a9269e00",
+            "PX12501": "9850c470e7edd158ccd42b2f2587906b",  //px_hvd 第一个请求返回的一个uuid进行md5编码
+            "PX12506": "x86",
+            "PX12507": "64",
+            "PX12508": [
+                {
+                    "brand": "Google Chrome",
+                    "version": "119"
+                },
+                {
+                    "brand": "Chromium",
+                    "version": "119"
+                },
+                {
+                    "brand": "Not?A_Brand",
+                    "version": "24"
+                }
+            ],
+            "PX12509": false,
+            "PX12510": "",
+            "PX12511": "Windows",
+            "PX12512": "8.0.0",
+            "PX12513": "119.0.6045.160",
+            "PX12514": true,
+            "PX12515": "TypeError: Cannot read properties of undefined (reading 'width')",
+            "PX12516": "webkit",
+            "PX12517": 33,  //eval.toString().length
+            "PX12518": false,
+            "PX12520": true,
+            "PX12524": "4YC14YCd4YCd4YCV4YCe4YCX4YGS5J256aus7r266YaI5oCR7r27", //indow["speechSynthesis"]["getVoices"]()[window["speechSynthesis"]["getVoices"]().length-1] 的编码
+            "PX12527": "ca0dc24cff53faf236dd00d529550f57", //(new (window.Intl['DateTimeFormat']))['format']("")的编码 如'1/1/1970'或 '1970/1/1' 的编码，日期的格式跟浏览器的语言时区有关
+            "PX12544": true,
+            "PX12545": false,
+            "PX12548": true,
+            "PX12549": true,
+            "PX12550": 0, //window['performance']['navigation']['type'] 表示浏览器的当前导航类型
+            "PX12551": "https:",
+            "PX12552": "function share() { [native code] }",
+            "PX12553": "Asia/Shanghai",
+            "PX12555": {
+                "plugext": {
+                    "0": {
+                        "f": "internal-pdf-viewer",
+                        "n": "Chrome PDF Plugin"
+                    },
+                    "1": {
+                        "f": "mhjfbmdgcfjbbpaeojofohoefgiehjai",
+                        "n": "Chrome PDF Viewer"
+                    }
+                },
+                "plugins_len": 2
+            },
+            "PX12565": -1,
+            "PX12566": false,
+            "PX12567": "w3c",
+            "PX12571": "7e2b742a",
+            "PX12573": "d05d283a", //PX11431值的前10位跟第1次请求返回的字符串里的一个md5的编码
+            "PX12576": "screen",
+            "PX12578": {},
+            "PX12579": {
+                "status": {
+                    "downlink": 9.3,
+                    "effectiveType": "4g",
+                    "rtt": 50,
+                    "saveData": false,
+                    "type": "ethernet"
+                },
+                "support": true
+            },
+            "PX12581": "default",
+            "PX12582": 3,
+            "PX12583": {
+                "smd": {
+                    "ex": false,
+                    "ok": true
+                }
+            },
+            "PX12587": false,
+            "PX12588": "webkit",
+            "PX12589": "succeeded",
+            "PX12593": false,
+            "PX12594": false,
+            "PX12595": "AudioData.SVGAnimatedAngle.SVGMetadataElement", //从Object['getOwnPropertyNames'](window)按正则表达试/^(s|a).*(usc|da).*/匹配出数据用.连接
+            "PX12597": 2  //创建了一个 Error 对象，然后使用 Object.defineProperty() 方法为该对象定义了一个名为 "stack" 的属性。该属性具有一个 getter 函数，每次访问该属性时+1 ，这个试了如果打开个一次页面再刷新这个值是2，如果是新打开的页面这个值是1
+        },
+        "t": "PX11590"
+    }
+]
